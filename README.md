@@ -69,5 +69,7 @@ Image steganography tool for secure message encryption.
 ## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/prajwal-kanade-44553a28b
+Email: kanadeprajwal88@gmail.com
+
 
 
