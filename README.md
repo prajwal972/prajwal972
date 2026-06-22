@@ -87,15 +87,6 @@ Image steganography tool for secure message encryption.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal972&layout=compact&theme=tokyonight)
 
 ---
-
-## 🎯 2026 Goals
-
-- ✅ Master Machine Learning
-- ✅ Build 5 End-to-End Data Science Projects
-- ✅ Learn Deep Learning
-- ✅ Learn MLOps
-- ✅ Secure a Data Science Internship
-
 ---
 
 <p align="center">
