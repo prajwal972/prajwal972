@@ -1,170 +1,94 @@
 <h1 align="center">Hi 👋, I'm Prajwal Kanade</h1>
 
-<h3 align="center">
-AI & Data Science Engineering Student | Aspiring Data Scientist
-</h3>
+<h3 align="center">AI & Data Science Engineering Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Data+Science;Machine+Learning+Enthusiast;Python+Developer;Power+BI+Developer;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=prajwal972&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-
-<a href="https://github.com/prajwal972">
-<img src="https://img.shields.io/github/followers/prajwal972?label=Followers&style=for-the-badge&color=181717">
-</a>
-
+📊 Data Scientist & Data Analyst <br>
+💻 Python • SQL • Power BI • Pandas • NumPy • Scikit-learn <br>
+🚀 Building Real-World AI & Data Projects
 </p>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpjb2Jkb2tqNmE2NmJpcHJtdXN4MmpoOW43aWN6NG9sOWJ4aDV1dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
-
-🎓 AI & Data Science Engineering Student
-
-💡 Passionate about Machine Learning, Artificial Intelligence & Data Analytics
-
-📊 Building real-world Data Science & Machine Learning projects
-
-🌱 Currently learning
-
-* Deep Learning
-* MLOps
-* Docker
-* Cloud Deployment
-
-🎯 Goal
-
-Become a Data Scientist and build AI products that solve real-world problems.
+- 🎓 AI & Data Science Engineering Student
+- 📊 Passionate about Data Analytics, Machine Learning, and AI
+- 🌱 Currently learning Machine Learning, Deep Learning, and MLOps
+- 🔍 Interested in solving real-world problems using data
+- 🎯 Goal: Become a Data Scientist
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/prajwal-kanade-44553a28b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/prajwal972">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prajwal-kanade-44553a28b)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwal972)
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-## 👨‍💻 Programming
+### Programming & Databases
 
-Python
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-SQL
-\
+### Data Analysis
 
----
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-## 📊 Data Analytics
+### Data Visualization
 
-Pandas
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
-Numpy
+### Machine Learning
 
-Excel
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-008080?style=for-the-badge)
 
-\
+### Tools
 
----
-
-## 🤖 Machine Learning
-
-Scikit-learn
-
-\
-
----
-
-## 🛠 Tools
-
-
-Vs code 
-
-jupyter notebook
-
-pycharm
-
-Github
-\
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
-| Project                            | Description                                                                |
-| ---------------------------------- | -------------------------------------------------------------------------- |
-| 🎬 **CineMatch AI**                | AI-powered Movie Recommendation System using NLP, Scikit-Learn & Streamlit |
-| 🛡️ **Veritas**                    | Fake News Detection System using Machine Learning & NLP                    |
-| 📊 **Financial Expense Dashboard** | Interactive Power BI dashboard for financial insights                      |
-| 🎓 **Student Management System**   | Python & MySQL based student information management system                 |
+### 📊 Financial Expense Tracking Dashboard
+Power BI dashboard for expense analysis, KPI tracking, and financial insights.
 
----
+### 📰 Veritas Fake News Detection System
+Machine Learning-based fake news classification system.
 
-# 📈 GitHub Analytics
+### 🎓 Student Management System
+Python-based student information and database management system.
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=prajwal972&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal972&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal972&layout=compact&theme=tokyonight"/>
-
-</p>
+### 🔐 StegoForge
+Image steganography tool for secure message encryption.
 
 ---
 
-# 📚 Currently Learning
+## 📈 GitHub Stats
 
-✅ Machine Learning
+![](https://github-readme-stats.vercel.app/api?username=prajwal972&show_icons=true&theme=tokyonight)
 
-🔄 Deep Learning
+![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal972&theme=tokyonight)
 
-🔄 MLOps
-
-🔄 Docker
-
-🔄 AWS Cloud
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal972&layout=compact&theme=tokyonight)
 
 ---
-
-# 🎯 2026 Goals
-
-✔ Build 15+ Portfolio Projects
-
-✔ Master Machine Learning
-
-✔ Learn Deep Learning
-
-✔ Learn MLOps
-
-✔ Land a Data Scientist Internship
-
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Always Learning • Always Building • Always Improving 🚀**
-
+⭐ If you like my projects, consider giving them a star!
 </p>
