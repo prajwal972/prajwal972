@@ -28,8 +28,7 @@ Last-year **Artificial Intelligence & Data Science** student at Jaihind College 
 - 🔭 **Currently building:** an autonomous AI data-scientist platform — agents that clean, model, and explain data, with a human-in-the-loop approval gate
 - 🌱 **Currently learning:** transformer internals & LLM fine-tuning, working through Karpathy's *Zero to Hero* and building nanoGPT from scratch
 - 💼 **Open to:** Data Science Intern · Data Analyst · ML Engineer roles
-- 📫 **Reach me:** ![LinkedIn](https://www.linkedin.com/in/prajwal-kanade-44553a28b)
-
+- 📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-2747A0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-kanade-44553a28b)
 <br>
 
 ## 🛠️ Tech Stack
