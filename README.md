@@ -34,7 +34,7 @@ Last-year **Artificial Intelligence & Data Science** student at Jaihind College 
 
 ## 🛠️ Tech Stack
 
-**Languages & Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-2747A0?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-2747A0?style=flat-square&logo=postgresql&logoColor=white)
@@ -56,7 +56,7 @@ Last-year **Artificial Intelligence & Data Science** student at Jaihind College 
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-2747A0?style=flat-square&logo=streamlit&logoColor=white)
 
-**Data, DevOps & Tools**
+**Data & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-2747A0?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2747A0?style=flat-square&logo=git&logoColor=white)
