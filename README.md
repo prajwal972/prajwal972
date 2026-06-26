@@ -1,94 +1,138 @@
-<h1 align="center">Hi 👋, I'm Prajwal Kanade</h1>
+<!--
+  Prajwal Kanade — GitHub Profile README
+  Brand: Navy #2747A0 · Amber #F2A93C · Deep Ink #0B1330
+  NOTE before publishing:
+  1) This file belongs in a repo named exactly "prajwal972" (same as your username) — GitHub
+     auto-detects that special repo and shows this as your profile README.
+  2) Swap the placeholder project links (github.com/prajwal972/<repo-name>) for your real repo URLs.
+  3) The stats badges below already point at your real username (prajwal972) — no edits needed there.
+-->
 
-<h3 align="center">AI & Data Science Engineering Student</h3>
+<div align="center">
 
-<p align="center">
-📊 Data Scientist & Data Analyst <br>
-💻 Python • SQL • Power BI • Pandas • NumPy • Scikit-learn <br>
-🚀 Building Real-World AI & Data Projects
-</p>
+# Hi, I'm Prajwal Kanade 👋
 
----
+### AI & Data Science engineer-in-training — building deployed ML systems, not just notebooks.
 
-## 👨‍💻 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2747A0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-kanade-44553a28b)
+[![GitHub](https://img.shields.io/badge/GitHub-0B1330?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwal972)
 
-- 🎓 AI & Data Science Engineering Student
-- 📊 Passionate about Data Analytics, Machine Learning, and AI
-- 🌱 Currently learning Machine Learning, Deep Learning, and MLOps
-- 🔍 Interested in solving real-world problems using data
-- 🎯 Goal: Become a Data Scientist
+</div>
 
----
+<br>
 
-## 🌐 Connect With Me
+## 🧭 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prajwal-kanade-44553a28b)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prajwal972)
+Third-year **Artificial Intelligence & Data Science** student at Jaihind College of Engineering (Savitribai Phule Pune University), with hands-on experience as a **Data Science Intern at VKV Engineering Solutions Pvt. Ltd.** I like turning ML ideas into things people can actually click on — end-to-end systems with real data, clean APIs, and dashboards that don't fall over on the demo call. Outside of model training, I follow **quantitative finance and forex markets** as a side interest.
 
----
+- 🔭 **Currently building:** an autonomous AI data-scientist platform — agents that clean, model, and explain data, with a human-in-the-loop approval gate
+- 🌱 **Currently learning:** transformer internals & LLM fine-tuning, working through Karpathy's *Zero to Hero* and building nanoGPT from scratch
+- 💼 **Open to:** Data Science Intern · Data Analyst · ML Engineer roles
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/prajwal-kanade-44553a28b)
+
+<br>
 
 ## 🛠️ Tech Stack
 
-### Programming & Databases
+**Languages & Core**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2747A0?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-2747A0?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2747A0?style=flat-square&logo=javascript&logoColor=white)
 
-### Data Analysis
+**ML / Data Science**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2747A0?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2747A0?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-2747A0?style=flat-square&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2747A0?style=flat-square&logo=tensorflow&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-2747A0?style=flat-square)
+![RapidFuzz](https://img.shields.io/badge/RapidFuzz-2747A0?style=flat-square)
 
-### Data Visualization
+**Backend & APIs**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-2747A0?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2747A0?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2747A0?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Machine Learning
+**Frontend & Apps**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-008080?style=for-the-badge)
+![React](https://img.shields.io/badge/React-2747A0?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-2747A0?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-2747A0?style=flat-square&logo=tailwindcss&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-2747A0?style=flat-square&logo=streamlit&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-2747A0?style=flat-square&logo=framer&logoColor=white)
 
-### Tools
+**Data, DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2747A0?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2747A0?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2747A0?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2747A0?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-2747A0?style=flat-square&logo=powerbi&logoColor=white)
 
----
+<br>
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 📊 Financial Expense Tracking Dashboard
-Power BI dashboard for expense analysis, KPI tracking, and financial insights.
-
-### 📰 Veritas Fake News Detection System
-Machine Learning-based fake news classification system.
-
-### 🎓 Student Management System
-Python-based student information and database management system.
-
-### 🔐 StegoForge
-Image steganography tool for secure message encryption.
+### 🤖 [Autonomous AI Data Scientist Platform](https://github.com/prajwal972/ai-data-scientist)
+AI agents take a raw CSV through cleaning, modeling, and SHAP-based explanation — with a human approval gate at every risky step.
+`FastAPI` `React/Vite` `PostgreSQL` `MLflow` `SHAP` `Claude API`
 
 ---
 
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=prajwal972&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=prajwal972&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal972&layout=compact&theme=tokyonight)
+### 🎬 [Movie Recommendation System](https://github.com/prajwal972/movie-recommender)
+Content-based recommender over the TMDB 5000 dataset with fuzzy title matching and a dark, glassmorphic Streamlit dashboard.
+`Python` `CountVectorizer` `Cosine Similarity` `Streamlit` `Docker`
 
 ---
+
+### 🛡️ [Veritas — AI Fake News Detector](https://github.com/prajwal972/veritas)
+Ensembles classical ML with an LSTM to flag misinformation, plus a discourse and global market-impact analysis layer.
+`Flask` `TF-IDF` `Logistic Regression` `Naive Bayes` `LSTM`
+
 ---
 
-<p align="center">
-⭐ If you like my projects, consider giving them a star!
-</p>
+### 💬 [Tweet Sentiment Classifier](https://github.com/prajwal972/tweet-sentiment)
+Lightweight sentiment scoring for tweets, served through a simple, paginated Flask API.
+`Flask` `TextBlob`
+
+---
+
+### 🛒 [Lumina Shop — Full-Stack E-Commerce](https://github.com/prajwal972/lumina-shop)
+A complete storefront with animated product browsing, cart, and order flow from front to back.
+`React/Vite` `Node/Express` `MySQL` `Sequelize` `Framer Motion`
+
+---
+
+### 🔐 [StegoForge — Secure Steganography Tool](https://github.com/prajwal972/stegoforge)
+Hides and encrypts messages inside images, combining strong crypto with classic LSB steganography.
+`Flask` `AES-256-GCM` `LSB Steganography` `ECDH`
+
+<br>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=prajwal972&show_icons=true&hide_border=true&title_color=2747A0&icon_color=2747A0&text_color=333333&bg_color=ffffff&count_private=true" width="49%" alt="Prajwal's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal972&layout=compact&hide_border=true&title_color=2747A0&text_color=333333&bg_color=ffffff" width="38%" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal972&hide_border=true&background=ffffff&ring=2747A0&fire=F2A93C&currStreakLabel=2747A0" width="60%" alt="Prajwal's GitHub streak" />
+
+</div>
+
+<br>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Prajwal%20Kanade-2747A0?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-kanade-44553a28b)
+[![GitHub](https://img.shields.io/badge/-prajwal972-0B1330?style=flat-square&logo=Github&logoColor=white)](https://github.com/prajwal972)
+
+⭐️ Thanks for stopping by — feel free to star a repo if something here is useful to you.
+
+![Profile views](https://komarev.com/ghpvc/?username=prajwal972&color=2747A0&style=flat-square&label=Profile+views)
+
+</div>
