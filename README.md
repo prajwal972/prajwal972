@@ -249,13 +249,9 @@ Power BI • DAX • Power Query • Excel
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwal972&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwal972&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=prajwal972&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -278,7 +274,6 @@ Power BI • DAX • Power Query • Excel
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwal972&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
 ---
 
 # 🐍 Contribution Snake
