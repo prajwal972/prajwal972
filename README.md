@@ -51,7 +51,7 @@
 
 🎯 Career Goal
 
-> Become an AI Engineer who builds impactful AI products.
+> Become an Data Scientist who builds impactful AI products.
 
 ---
 
