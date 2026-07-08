@@ -176,26 +176,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-```text
-🐍 Python                     ████████████████ 100%
-
-🗄 SQL                        ██████████████░░ 95%
-
-📊 Power BI                   ██████████████░░ 95%
-
-🤖 Machine Learning           ███████████░░░░ 80%
-
-🧠 Deep Learning              ████████░░░░░░░ 60%
-
-🚀 MLOps                      █████░░░░░░░░░░ 40%
-
-🤖 Agentic AI                 ███░░░░░░░░░░░░ 25%
-```
-
----
-
 # 💼 Experience
 
 ### 🏢 Data Science Intern
@@ -212,23 +192,6 @@
 
 ✔ Data Analysis
 
----
-
-# 🎯 2026 Goals
-
-- ✅ Build 15+ AI Projects
-
-- ✅ Learn Deep Learning
-
-- ✅ Learn MLOps
-
-- ✅ Master LLMs
-
-- ✅ Build AI SaaS Products
-
-- ✅ Open Source Contributions
-
-- ✅ Secure AI Engineer Role
 ---
 
 # 📬 Let's Connect
@@ -252,52 +215,6 @@ I'm always interested in collaborating on AI, Machine Learning, Data Analytics, 
 </a>
 
 </div>
-
----
-
-# 💡 Quote
-
-<div align="center">
-
-> **"Transforming data into intelligent solutions, one project at a time."**
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-```python
-class PrajwalKanade:
-
-    def __init__(self):
-        self.role = "AI & Data Science Engineer"
-        self.language = ["Python", "SQL"]
-        self.ml = ["Scikit-Learn", "NLP", "Deep Learning"]
-        self.analytics = ["Power BI", "Excel", "Data Visualization"]
-        self.current_focus = "Machine Learning, LLMs & Agentic AI"
-
-    def life_goal(self):
-        return "Build AI products that solve real-world problems."
-
-me = PrajwalKanade()
-
-print(me.life_goal())
-```
-
-```text
-Build AI products that solve real-world problems.
-```
-
----
-
-# 🎯 Current Focus
-
-- 🤖 Building AI-powered applications
-- 📊 Creating interactive analytics dashboards
-- 🧠 Learning Deep Learning & LLMs
-- 🚀 Exploring MLOps and Agentic AI
-- 🌍 Contributing to open-source projects
 
 ---
 
